@@ -17,3 +17,4 @@ http://127.0.0.1:5500/index.html
 - Tela de Abertura do jogo com imagens aleatórias
 
 <img src = "https://github.com/cleverson09207/Projeto-Jokenp-/blob/main/assets/foto.png?raw=true"/>
+<img src = "https://github.com/cleverson09207/Projeto-Jokenp-/blob/main/assets/foto2.png?raw=true"/>
