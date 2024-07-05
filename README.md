@@ -15,3 +15,5 @@ http://127.0.0.1:5500/index.html
 - Pontuação do Jogador
 <br>
 - Tela de Abertura do jogo com imagens aleatórias
+
+<img src = "https://github.com/cleverson09207/Projeto-Jokenp-/blob/main/assets/foto.png?raw=true"/>
