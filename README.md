@@ -8,9 +8,9 @@ http://127.0.0.1:5500/index.html
 <br>
 <br>
 <h3>Funcionalidades</h3>
-- botão Pedra, Papel e Tesoura
+- Botão Pedra, Papel e Tesoura
 <br>
-- pontuação da Alexa
+- Pontuação da Alexa
 <br>
 - Pontuação do Jogador
 <br>
