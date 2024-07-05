@@ -1,5 +1,5 @@
 <h1>JokenPô</h1>
-Esse é o jokenpô, um jogo desenvolvido para praticar e adquirir conhecimentos em javaScript
+Esse é o jokenPô, um jogo desenvolvido para praticar e adquirir conhecimentos em javaScript
 <br>
 <br>
 <br>
@@ -16,5 +16,5 @@ http://127.0.0.1:5500/index.html
 <br>
 - Tela de Abertura do jogo com imagens aleatórias
 
-<img src = "https://github.com/cleverson09207/Projeto-Jokenp-/blob/main/assets/foto.png?raw=true"/>
-<img src = "https://github.com/cleverson09207/Projeto-Jokenp-/blob/main/assets/foto2.png?raw=true"/>
+<img src = "https://github.com/cleverson09207/Projeto-Jokenp-/blob/main/assets/foto.png?raw=true"/> <img src = "https://github.com/cleverson09207/Projeto-Jokenp-/blob/main/assets/foto2.png?raw=true"/>
+
