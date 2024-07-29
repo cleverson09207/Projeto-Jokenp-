@@ -1,8 +1,6 @@
 <h1>JokenPô</h1>
 Esse é o jokenPô, um jogo desenvolvido para praticar e adquirir conhecimentos em javaScript
 <br>
-<br>
-<br>
 <h3>Funcionalidades</h3>
 - Botão Pedra, Papel e Tesoura
 <br>
