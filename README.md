@@ -3,8 +3,6 @@ Esse é o jokenPô, um jogo desenvolvido para praticar e adquirir conhecimentos 
 <br>
 <br>
 <br>
-<h2>Vizualize o Projeto</h2>
-http://127.0.0.1:5500/index.html
 <br>
 <br>
 <h3>Funcionalidades</h3>
